@@ -5,6 +5,8 @@ This project presents a **comprehensive analysis of 24,000 laptop reviews**, uti
 
 The dataset used in this project is sourced from **Kaggle** and is processed using Python libraries such as **pandas, plotly, and preswald**.
 
+You can access the live dashboard here: [Laptop Reviews Analysis Dashboard](https://laptop-reviews-analysis-project-946230-vxem2hz4-ndjz2ws6la-ue.a.run.app/)
+
 ## Features
 ### 1️⃣ **Data Loading & Dynamic View**
 - Connects to the dataset using `preswald.connect()`.
