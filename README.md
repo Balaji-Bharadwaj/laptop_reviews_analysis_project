@@ -59,15 +59,12 @@ A detailed text summary that provides key statistics:
 2. **Ensure Data Availability**
    - The dataset should be accessible through `preswald.get_df('reviews_csv')`.
 3. **Run the Script**
-   - Execute the Python script in a Jupyter Notebook or Python environment.
+   - Execute the Python script in a Jupyter Notebook or Python environment using
+     ```sh
+   preswald run
+   ```
 4. **Interact with the Dashboard**
    - Utilize **filters, charts, and insights** to explore the laptop reviews dataset.
-
-## Future Enhancements
-- **Sentiment Analysis Using NLP** (e.g., VADER, TextBlob, or transformers).
-- **Word Cloud Visualization** for common words in reviews.
-- **Geographical Analysis** if location data is available.
-- **Comparison of Brands Based on Ratings & Reviews.**
 
 ---
 📌 *This project provides valuable insights into customer feedback on laptops, helping users make informed purchasing decisions based on extensive review analysis.*
