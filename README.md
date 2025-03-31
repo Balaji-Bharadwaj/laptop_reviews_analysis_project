@@ -60,7 +60,7 @@ A detailed text summary that provides key statistics:
    - The dataset should be accessible through `preswald.get_df('reviews_csv')`.
 3. **Run the Script**
    - Execute the Python script in a Jupyter Notebook or Python environment using
-     ```sh
+   ```sh
    preswald run
    ```
 4. **Interact with the Dashboard**
